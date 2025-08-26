@@ -1,4 +1,4 @@
-Este repositório reúne os códigos desenvolvidos para os exercícios propostos em sala, utilizando Physics-Informed Neural Networks (PINNs) com PyTorch e DeepXDE.
+Este repositório reúne os códigos desenvolvidos para os exercícios propostos, utilizando Physics-Informed Neural Networks (PINNs) com PyTorch e DeepXDE.
 
 Inclui problemas clássicos de Mecânica dos Sólidos e Elasticidade, com comparação entre a solução numérica via PINNs e as soluções analíticas.
 
